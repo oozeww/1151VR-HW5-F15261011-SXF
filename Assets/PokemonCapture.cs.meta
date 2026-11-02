@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f8242f77640f7aa4d92b7ab61932a218
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - trainer: {fileID: -8679921383154817045, guid: f18c61af6fdff1045ba932cd1146473c, type: 3}
+  - pokemon: {fileID: 919132149155446097, guid: f4dce77948d8e384897b70f3be663555, type: 3}
+  - pokeball: {fileID: 919132149155446097, guid: cd6ac42a8645717439b04444ae72138a, type: 3}
+  - captureEffect: {fileID: 2373654693190896836, guid: 4cb73a709f07dc149a2035fdded84457, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
